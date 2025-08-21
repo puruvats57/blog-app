@@ -1,6 +1,6 @@
 # Blog App
 
-A full-stack blog application with user authentication, post management, comments, and search functionality.
+A full-stack blog application with user authentication, post management, comments, and search functionality with deployment on docker.
 
 ## Features
 
